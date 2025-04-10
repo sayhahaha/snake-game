@@ -2,7 +2,7 @@
 const config = {
     canvasId: 'gameCanvas',
     gridSize: 20,
-    frameRate: 100,
+    frameRate: 200,  // 将速度从100调整为200，值越大速度越慢
     initialSnakeLength: 3,
     initialDirection: 'right'
 };
